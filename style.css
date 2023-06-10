@@ -1,0 +1,280 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #cccccc;
+    color: #000000;
+    font-family: "Raleway",sans-serif;
+
+}
+
+.heading{
+    text-align: center;
+    margin:1% auto;
+    font-size: 22px;
+    
+
+
+}
+.head-1{
+    margin: 1rem;
+    font-size: 35px;
+}
+
+.para-1{
+    margin: 1rem;
+    margin-top: 1.5rem;
+    font-size: 30px;
+}
+
+.april{
+    color: gray;
+}
+
+
+.main-para{
+    margin-left: 1rem;
+    font-size: 24px;
+   
+
+
+}
+
+.sec-main-para{
+    margin: 1rem;
+}
+.sub-para1{
+    background-color: black;
+    padding: 0.2rem;
+    color: white;
+}
+.container{
+    display: flex;
+ 
+  
+}
+
+.img-1{
+  
+    height: 400px;
+    width: 1200px;
+
+}
+
+.img-2{
+  
+    height: 400px;
+    width: 1200px;
+}
+
+.home-right{
+    margin: 78px ;
+    
+}
+.cont-2{
+    margin:44px auto;
+ 
+    box-shadow: 1rem 1rem 1rem gray;
+    background-color: white;
+    height: 800px;
+    width: 1200px;
+    
+
+}
+
+.img-3{
+    width: 570px;
+
+}
+
+#heading{
+    width: 78px;
+}
+.image-left{
+ 
+    height:65px;
+}
+.cont-12{
+    display: flex;
+    border-bottom: 1px solid #DDDDDD;
+}
+h3{
+    height: 43px; 
+}
+
+
+.btn{
+    background-color: white;
+    border-color: gray;
+    border-width: 1px;
+    color:#000000;
+    padding: 20px;
+    margin-left: 1rem;
+    margin-top:1.2rem ;
+    font-size: 25px;
+}
+.btn:hover{
+    background-color:gray;
+}
+.btn-2{
+    border: none;
+    background-color: gray;
+    margin-top:30px ;
+    margin-left: 15px;
+    margin-right: 5px;
+    margin-bottom: 8px;
+    width:89px;
+    padding: 14px;
+}
+.btn-2:hover{
+    background-color: #cccccc;
+}
+.btn-3{
+    border: none;
+    padding: 14px;
+    width: 89px;
+    background-color: black;
+    color: white;
+}
+.btn-3:hover{
+    background-color: #cccccc;
+}
+
+.last-para{
+    color: white;
+    margin: 9px;
+    margin-left: 18px;
+}
+
+.link{
+    color: white;
+
+}
+
+
+.button{
+    width: 80px;
+    margin: 8px;
+    padding: 10px;
+    color: white;
+    background-color: black;
+    font-size: 20px;
+}
+.tag{
+    background-color:#cccccc;
+    width: 572px;
+    height: 65px;
+    
+}
+
+
+.cont-5{
+   
+    box-shadow: 1rem 1rem 1rem gray;
+  
+    background-color: white;
+    margin-right: 5rem;
+    height: 300px;
+    width:570px ;
+}
+.cont-4{
+  
+    box-shadow: 1rem 1rem 1rem gray ;
+    background-color: white;
+    margin-right: 5rem;
+    width: 570px;
+    
+}
+
+.cont-3{
+    
+    box-shadow:1rem 1rem 1rem gray;
+    background-color: white;
+    margin-top: 78px;
+    height: 608px;
+    margin-right: 5rem;
+    width: 570px;
+
+}
+.cont-1{
+  
+    box-shadow: 1rem 1rem 1rem  gray;
+    height: 800px;
+    background-color: white;
+    width: 1200px;
+}
+.footer{
+    height: 250px;
+
+    background-color:#616161;
+}
+h3{
+
+    background-color: #cccccc;
+    height: 70px;
+}
+.main-head-4{
+    background-color:#CCCCCC;
+    height: 75px;
+
+    width: 572px;
+}
+
+.cont-12:hover{
+    background-color: #cccccc;
+
+}
+
+.image-left{
+    margin: 5px;
+    padding: 0.3rem;
+}
+
+.small-btn{
+   border: none;
+   margin: 7px;
+   background-color: #CCCCCC;
+   padding: 9px;
+
+
+}
+
+.btw-para{
+  
+    margin-top: 1rem;
+
+}
+.sub-para{
+    font-size: 18px;
+}
+
+#head-sub{
+font-size: 50px;
+font-weight: 700px;
+line-height: 54px;
+margin-top: 55px;
+
+}
+
+.com-1{
+    margin-left: 48rem;
+    font-size: 25px;
+
+}
+.com-2{
+    background-color: black;
+    color: white;
+    padding:3px 9px;
+    height: 700px;
+
+}
+
+
+.sub-para-1{
+    margin: 20px;
+    font-size: 28px;
+
+}
